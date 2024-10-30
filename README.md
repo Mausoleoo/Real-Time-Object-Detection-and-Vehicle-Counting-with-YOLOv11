@@ -20,3 +20,21 @@ Real-time vehicle tracking and counting have numerous applications:
 Using YOLOv11 for this task demonstrates the potential for low-latency, high-accuracy detection of multiple objects in real-world applications.
 
 --------------------------------------------------------------------------------------------
+
+# Model Details
+
+The YOLOv11 model used in this project is pre-trained and then fine-tuned on datasets with vehicle annotations. YOLOv11 is designed to be fast and accurate, making it ideal for real-time applications.
+
+--------------------------------------------------------------------------------------------
+
+# Sample Video
+
+[Watch the demo video]()
+
+# Future Applications
+
+Besides vehicle counting, the model can be adapted for:
+
+* Pedestrian Detection: For crowd control, safety monitoring, and foot traffic analysis.
+* Animal Tracking: Monitoring wildlife in conservation projects or identifying animal crossings on roads.
+* Industrial Monitoring: Detecting equipment, workers, or machinery in factories to ensure safety compliance.
