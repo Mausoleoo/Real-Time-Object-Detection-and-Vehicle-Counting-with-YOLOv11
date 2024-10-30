@@ -29,7 +29,9 @@ The YOLOv11 model used in this project is pre-trained and then fine-tuned on dat
 
 # Sample Video
 
-[Watch the demo video]()
+[Watch the demo video](https://github.com/Mausoleoo/Real-Time-Object-Detection-and-Vehicle-Counting-with-YOLOv11/blob/master/object_counting_output.avi)
+
+--------------------------------------------------------------------------------------------
 
 # Future Applications
 
