@@ -42,3 +42,9 @@ Besides vehicle counting, the model can be adapted for:
 * Pedestrian Detection: For crowd control, safety monitoring, and foot traffic analysis.
 * Animal Tracking: Monitoring wildlife in conservation projects or identifying animal crossings on roads.
 * Industrial Monitoring: Detecting equipment, workers, or machinery in factories to ensure safety compliance.
+
+--------------------------------------------------------------------------------------------
+
+# Acknowledgments
+
+We would like to thank Ultralytics for providing an exceptional framework that simplifies real-time object detection. Their user-friendly tools have greatly enhanced our ability to build and deploy effective solutions in this project.
