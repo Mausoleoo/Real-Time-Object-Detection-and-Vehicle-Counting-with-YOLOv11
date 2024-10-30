@@ -47,4 +47,4 @@ Besides vehicle counting, the model can be adapted for:
 
 # Acknowledgments
 
-We would like to thank Ultralytics for providing an exceptional framework that simplifies real-time object detection. Their user-friendly tools have greatly enhanced our ability to build and deploy effective solutions in this project.
+I would like to thank Ultralytics for providing an exceptional framework that simplifies real-time object detection. Their user-friendly tools have greatly enhanced our ability to build and deploy effective solutions in this project.
