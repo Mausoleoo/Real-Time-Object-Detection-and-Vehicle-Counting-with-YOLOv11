@@ -23,13 +23,15 @@ Using YOLOv11 for this task demonstrates the potential for low-latency, high-acc
 
 # Model Details
 
-The YOLOv11 model used in this project is pre-trained and then fine-tuned on datasets with vehicle annotations. YOLOv11 is designed to be fast and accurate, making it ideal for real-time applications.
+The YOLOv11 model used in this project is pre-trained on the COCO dataset. YOLOv11 is designed to be fast and accurate, making it ideal for real-time applications.
 
 --------------------------------------------------------------------------------------------
 
 # Sample Video
 
 ![Alt text](https://github.com/Mausoleoo/Real-Time-Object-Detection-and-Vehicle-Counting-with-YOLOv11/blob/master/test3%20GIF.gif)
+
+In this project, vehicles on the left side of the detection zone are counted as "out," indicating they are exiting the monitored area, while vehicles on the right side are counted as "in," signifying their entry. This distinction allows for effective monitoring of traffic flow and provides valuable insights into vehicular patterns at the monitored location.
 
 --------------------------------------------------------------------------------------------
 
