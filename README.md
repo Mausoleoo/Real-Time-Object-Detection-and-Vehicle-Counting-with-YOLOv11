@@ -8,3 +8,15 @@ This repository demonstrates real-time object detection using YOLOv11 with the U
 The objective of this project is to showcase the power of real-time object detection, with a specific focus on tracking and counting vehicles such as cars and trucks in a video. Leveraging the YOLOv11 model, this project can process video streams, analyze vehicle movement, and provide insights for traffic monitoring applications.
 
 --------------------------------------------------------------------------------------------
+
+# Motivation and Use Cases
+
+Real-time vehicle tracking and counting have numerous applications:
+
+* Traffic Management: Cities can monitor and analyze vehicle flow, aiding in traffic light optimization, congestion management, and incident detection.
+* Toll Systems: Automated toll collection systems can use real-time detection to classify and count vehicles, allowing for dynamic toll pricing.
+* Parking Management: This technology can assist in vehicle tracking within parking structures, identifying available spots, or managing restricted areas.
+
+Using YOLOv11 for this task demonstrates the potential for low-latency, high-accuracy detection of multiple objects in real-world applications.
+
+--------------------------------------------------------------------------------------------
