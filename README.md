@@ -29,7 +29,7 @@ The YOLOv11 model used in this project is pre-trained and then fine-tuned on dat
 
 # Sample Video
 
-[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/EHsM5bWwwa8))
+[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/EHsM5bWwwa8)](https://youtu.be/EHsM5bWwwa8?si=8CEq76mz35ZuNMfv)
 
 --------------------------------------------------------------------------------------------
 
